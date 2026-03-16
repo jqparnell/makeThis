@@ -1,15 +1,18 @@
-.noto-sans-mono-title {
+:root{
+	--darkbrown: #240F0B;
+}
+.noto-sans-mono-body {
   font-family: "Noto Sans Mono", monospace;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 400;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
 }
-.noto-sans-body {
+.noto-sans-title {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 100;
+  font-weight: 500;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
